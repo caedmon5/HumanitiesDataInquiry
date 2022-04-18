@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>caedmon5.github.io/humanitiesdatainquiry/post/my-first-post/</loc>
+    <loc>caedmon5.github.io/humanitiesdatainquiry/public/post/my-first-post/</loc>
     <lastmod>2022-04-18T12:54:44-06:00</lastmod>
   </url>
   
   <url>
-    <loc>caedmon5.github.io/humanitiesdatainquiry/</loc>
+    <loc>caedmon5.github.io/humanitiesdatainquiry/public/</loc>
     <lastmod>2022-04-18T12:54:44-06:00</lastmod>
   </url>
   
   <url>
-    <loc>caedmon5.github.io/humanitiesdatainquiry/post/</loc>
+    <loc>caedmon5.github.io/humanitiesdatainquiry/public/post/</loc>
     <lastmod>2022-04-18T12:54:44-06:00</lastmod>
   </url>
   
   <url>
-    <loc>caedmon5.github.io/humanitiesdatainquiry/categories/</loc>
+    <loc>caedmon5.github.io/humanitiesdatainquiry/public/categories/</loc>
   </url>
   
   <url>
-    <loc>caedmon5.github.io/humanitiesdatainquiry/tags/</loc>
+    <loc>caedmon5.github.io/humanitiesdatainquiry/public/tags/</loc>
   </url>
   
 </urlset>
