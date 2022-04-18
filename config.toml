@@ -1,0 +1,4 @@
+baseURL = "caedmon5.github.io/humanitiesdatainquiry"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "mainroad"
